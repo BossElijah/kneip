@@ -1,0 +1,109 @@
+[
+  {
+    "id": 1,
+    "type": "hero",
+    "title": "One platform for managing fund data. Simple and precise.",
+    "text": "The most efficient way to accelerate your time to market and provide the right information to regulators.",
+    "cta" : { 
+      "ctaText": "Take the test",
+      "ctaUrl": "https://www.kneip.com/datacheck/"
+    },
+    "backgroundUrl": "/img/hero1.png"
+  },
+
+  {
+    "id": 2,
+    "type": "hero",
+    "title": "Create value at every stage of the life cycle.",
+    "text": "We can help you meet any requirements resulting from changing regulations throughout the fund lifecycle.",
+    "cta" : { 
+      "ctaText": "Choose your stage",
+      "ctaUrl": "https://www.kneip.com/the-value-for-you/"
+    },
+    "backgroundUrl": "/img/hero2.png"
+  },
+
+  {
+    "id": 3,
+    "type": "cardDeck",
+    "title": "The value for you",
+    "cards" : [
+      {
+        "title": "Control",
+        "text": "Ensure data integrity across services.",
+        "image": 
+        {
+          "src": "/img/Control-800x799.png",
+          "alt": "Control"
+        }
+      },
+      {
+        "title": "Efficiency",
+        "text": "Reuse data across multiple outputs.",
+        "image":
+        {
+          "src": "/img/Efficiency-800x799.png",
+          "alt": "Efficiency"
+        }
+      },
+      {
+        "title": "Transparency",
+        "text": "Enhance visualization, calculations, outputs, and insights.",
+        "image":
+        {
+          "src": "/img/Transparency-800x799.png",
+          "alt": "Transparency"
+        }
+      },
+      {
+        "title": "Time to market",
+        "text": "Accelerate your product to market.",
+        "image":
+        {
+          "src": "/img/Time-800x799.png",
+          "alt": "Time to market"
+        }
+      }
+    ],
+
+    "cta" : { 
+      "ctaText": "Explore more benefits",
+      "ctaUrl": "https://www.kneip.com/the-value-for-you/"
+    }
+  },
+
+  {
+    "id": 4,
+    "type": "quote",
+    "title": "What our clients say",
+    "text": "“In less than five minutes, we were set up for the product and had calculated, validated and published a DCPT for one of our funds. To be able to do this so quickly is nothing short of spectacular!”",
+    "source": "Philip Howell , Rathbones",
+    "backgroundUrl": "/img/hero4.png"
+  },
+
+  {
+    "id": 5,
+    "type": "hero",
+    "title": "How accurate is the data you publish?",
+    "text": "The true cost of poor data quality is enormous. Take our free data diagnostic and put your data consistency to the test.",
+    "cta" : { 
+      "ctaText": "Take the test",
+      "ctaUrl": "https://www.kneip.com/datacheck/"
+    },
+    "backgroundUrl": "/img/hero5.png",
+    "layout": "layout-text-left herowrap2"
+  },
+
+  {
+    "id": 6,
+    "type": "hero",
+    "title": "Get started.",
+    "text": "All your fund data lives on one platform, where KNEIP’s publication controls ensure it stays accurate.",
+    "cta" : { 
+      "ctaText": "Get in touch",
+      "ctaUrl": "https://www.kneip.com/contact-us/"
+    },
+    "border": "hero-border"
+  }
+
+]

@@ -1,0 +1,50 @@
+[
+  {
+    
+  }
+]
+
+
+
+
+
+      // <p class="m-paragraph"><strong>Subscribe</strong></p>
+      // <input type="email" name="email" id="email" placeholder="Email address">
+      // <button class="btn btn-transparent form-btn">Submit</button>
+
+
+      // <p class="m-paragraph"><strong>Company</strong></p>
+
+      //   <a class="s-paragraph" href="#">About us</a>
+      //   <a class="s-paragraph" href="#">Leadership team</a>
+      //   <a class="s-paragraph" href="#">Careers</a>
+      //   <a class="s-paragraph" href="#">Contact</a>
+
+
+      // <span class="fa-stack fa-lg">
+      //   <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+      // </span>
+      // <span class="fa-stack fa-lg">
+      //   <i class="fab fa-linkedin-in fa-stack-1x fa-inverse"></i>
+      // </span>
+      // <span class="fa-stack fa-lg">
+      //   <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+      // </span>
+      // <span class="fa-stack fa-lg">
+      //   <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
+      // </span>
+
+
+      // <p class="m-paragraph"><strong>Community</strong></p>
+
+      //   <a class="s-paragraph" href="#">Newsletter</a>
+      //   <a class="s-paragraph" href="#">Events</a>
+
+      // <p class="m-paragraph"><strong>Legal</strong></p>
+
+      //   <a class="s-paragraph" href="#">Privacy statement</a>
+      //   <a class="s-paragraph" href="#">Email disclaimer</a>
+      //   <a class="s-paragraph" href="#">Official complaints</a>
+
+      // <p>&copy; 2019 - Kneip <br> All rights reserved</p>
+ 

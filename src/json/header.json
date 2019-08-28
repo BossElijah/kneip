@@ -1,0 +1,33 @@
+[
+  {
+    "links": {
+      "link": {
+        "id": 1,
+        "ctaText": "Why Kneip?",
+        "ctaUrl": "https://www.kneip.com/why-kneip/"
+      },
+      "link": {
+        "id": 2,
+        "ctaText": "Value",
+        "ctaUrl": "https://www.kneip.com/the-value-for-you/"
+      },
+      "link": {
+        "id": 3,
+        "ctaText": "News",
+        "ctaUrl": "https://www.kneip.com/blog/"
+      }
+    },
+    "logo": {
+      "ctaText": "KNEIP",
+      "ctaUrl": "https://www.kneip.com/" 
+    },
+    "btn": {
+      "ctaText": "Login",
+      "ctaUrl": "https://fs.kneip.com/adfs/ls/?wa=wsignin1.0&wtrealm=https%3a%2f%2fdigital.kneip.com%2f&wctx=rm%3d0%26id%3dpassive%26ru%3d%252f&wct=2019-05-28T11%3a39%3a06Z&wreply=https%3a%2f%2fdigital.kneip.com%2f"
+    },
+    "btn": {
+      "ctaText": "Contact",
+      "ctaUrl": "https://www.kneip.com/contact-us/"
+    }
+  }
+]
